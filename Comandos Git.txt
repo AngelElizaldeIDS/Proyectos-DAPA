@@ -1,0 +1,7 @@
+# Para Demo01
+git fetch demo01
+git subtree pull --prefix=Demos/Demo01 demo01 main --squash
+
+# Para Demo02
+git fetch demo02
+git subtree pull --prefix=Demos/Demo02 demo02 main --squash
