@@ -1,0 +1,9 @@
+[submodule "HolaMundoApp"]
+	path = HolaMundoApp
+	url = https://github.com/AngelElizaldeIDS/ACT01_HolaMundoApp
+[submodule "LayoutApp"]
+	path = LayoutApp
+	url = https://github.com/AngelElizaldeIDS/ACT02_LayoutApp
+[submodule "TouchApp"]
+	path = TouchApp
+	url = https://github.com/AngelElizaldeIDS/ACT03_TouchApp
