@@ -1,26 +1,27 @@
 # 📘 Proyectos DAPA – Portafolio de Evidencias (Módulo 1)
-**Desarrollo de Aplicaciones Android – Módulo 1**
+
+## Desarrollo de Aplicaciones Android – Módulo 1
 
 Este repositorio contiene las evidencias del **Módulo 1**, organizadas mediante **submódulos de GitHub**, donde cada actividad apunta a su propio repositorio con:
 
 - 📱 Código fuente de la aplicación Android  
 - 📦 Archivo APK generado  
-- 📝 Material adicional si aplica  
+- 📄 Material adicional si aplica  
 
 ---
 
-## 📂 Actividades del Módulo 1
+# 📂 Actividades del Módulo 1
 
-| Carpeta | Actividad | Estado | Enlace |
-|--------|-----------|--------|--------|
-| `HolaMundoApp` | Aplicación “Hola Mundo” | ✔️ Conectada | [ACT01_HolaMundoApp](./HolaMundoApp) |
-| `LayoutApp` | Prácticas de Layouts | ✔️ Conectada | [ACT02_LayoutApp](./LayoutApp) |
-| `TouchApp` | Interacción táctil | ✔️ Conectada | [ACT03_TouchApp](./TouchApp) |
-| `FragmentApp` | App con Fragments | ❌ No realizada | _Pendiente de desarrollo_ |
+| Carpeta       | Actividad                       | Estado        | Enlace |
+|---------------|----------------------------------|---------------|--------|
+| `HolaMundoApp` | Aplicación “Hola Mundo”          | ✔️ Conectada  | [ACT01_HolaMundoApp](https://github.com/AngelElizaldeIDS/ACT01_HolaMundoApp) |
+| `LayoutApp`    | Prácticas de Layouts             | ✔️ Conectada  | [ACT02_LayoutApp](https://github.com/AngelElizaldeIDS/ACT02_LayoutApp) |
+| `TouchApp`     | Interacción táctil               | ✔️ Conectada  | [ACT03_TouchApp](https://github.com/AngelElizaldeIDS/ACT03_TouchApp) |
+| `FragmentApp`  | App con Fragments                | ✔️ Conectada  | [ACT04_FragmentsApp](https://github.com/AngelElizaldeIDS/Actividad-4---FragmentsApp) |
 
 ---
 
-## 🛠️ Sobre este portafolio
+# 🧰 Sobre este portafolio
 
 Este portafolio fue desarrollado usando **submódulos**, lo que permite:
 
@@ -31,7 +32,7 @@ Este portafolio fue desarrollado usando **submódulos**, lo que permite:
 
 ---
 
-## ✨ Experiencia del desarrollo
+# ✨ Experiencia del desarrollo
 
 Durante este módulo se afianzaron conceptos iniciales de Android como:
 
@@ -39,27 +40,24 @@ Durante este módulo se afianzaron conceptos iniciales de Android como:
 - Uso de Widgets básicos  
 - Layouts y diseño visual  
 - Eventos táctiles y listeners  
+- Uso de Fragments  
 - Estructura básica de proyectos Android  
 
-Cada actividad contribuyó a un aprendizaje incremental hasta completar las tres aplicaciones principales del módulo.
-
-> **Nota:** La *Actividad 4 (Fragments)* no fue realizada, por lo que aparece marcada como pendiente en este portafolio.
+Cada actividad contribuyó al aprendizaje incremental hasta completar las cuatro aplicaciones del módulo.
 
 ---
 
-## ✔️ Estado general del módulo
+# 📊 Estado general del módulo
 
-| Concepto | Estado |
-|---------|--------|
-| Repos conectados como submódulos | ✔️ Sí |
-| Actividades 1, 2 y 3 | ✔️ Completadas |
-| Actividad 4 (Fragments) | ❌ No realizada |
-| README documentado | ✔️ Completo |
+| Concepto                             | Estado        |
+|--------------------------------------|---------------|
+| Repos conectados como submódulos     | ✔️ Sí         |
+| Actividades 1, 2, 3 y 4              | ✔️ Completadas |
+| README documentado                   | ✔️ Completo   |
 
 ---
 
-## 📌 Pendiente
+# 📌 Pendiente
 
-- Realizar Actividad 4 (Fragments) cuando corresponda.  
-- Crear su repositorio individual y conectarlo como submódulo.
-
+No hay pendientes por el momento.  
+Este módulo está **completamente finalizado** con todas sus evidencias listas.
