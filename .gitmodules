@@ -7,3 +7,6 @@
 [submodule "TouchApp"]
 	path = TouchApp
 	url = https://github.com/AngelElizaldeIDS/ACT03_TouchApp
+[submodule "FragmentApp"]
+	path = FragmentApp
+	url = https://github.com/AngelElizaldeIDS/Actividad-4---FragmentsApp.git
